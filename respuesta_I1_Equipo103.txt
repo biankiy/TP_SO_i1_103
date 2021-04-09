@@ -1,0 +1,24 @@
+Finalmente entre todos los integrantes contestan estas preguntas con sus palabras :
+a-¿ALFA ve los datos que cargaron los demás en su repositorio?
+b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+d-¿De qué forma se comunicaron ustedes?
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+
+5-ALFA sube las respuestas a- y b-
+6-BETA sube la c- y d-
+7-GAMMA sube la e-
+todas en el mismo archivo “respuesta_I1_EquipoX” (donde X es el número del equipo)
+
+
+
+a-
+
+b-
+
+c- si, despues de pushear todo lo de mi repositorio local se subio correctamente al repositorio origen
+
+d- usamos whatsapp, pero el organizador del proyecto de git y el panel de issues son dos herramientas
+ que facilitan mucho la organizacion del flujo de trabajo
+
+e-
