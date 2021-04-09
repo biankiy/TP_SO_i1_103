@@ -12,11 +12,12 @@ todas en el mismo archivo “respuesta_I1_EquipoX” (donde X es el número del 
 
 
 
-a-
+a- Si veo los archivos que cargar Gamma y Beta
 
-b-
+b- Si lo demas integrantes lo ven si actualizan sus repositorios
 
 c- si, despues de pushear todo lo de mi repositorio local se subio correctamente al repositorio origen
+ (Alfa) si puedo ver los archivos que sube beta
 
 d- usamos whatsapp, pero el organizador del proyecto de git y el panel de issues son dos herramientas
  que facilitan mucho la organizacion del flujo de trabajo
