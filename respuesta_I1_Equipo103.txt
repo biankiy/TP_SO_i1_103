@@ -21,4 +21,4 @@ c- si, despues de pushear todo lo de mi repositorio local se subio correctamente
 d- usamos whatsapp, pero el organizador del proyecto de git y el panel de issues son dos herramientas
  que facilitan mucho la organizacion del flujo de trabajo
 
-e-
+e-La mejor forma de comunicarnos dentro fue el panel de issues ya que facilito mucho la organizacion del flujo de trabajo
